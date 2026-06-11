@@ -1,4 +1,4 @@
-﻿# Machine Learning Practice Notebooks
+# Machine Learning Practice Notebooks
 
 ## Description
 
